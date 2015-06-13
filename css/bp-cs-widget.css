@@ -1,0 +1,32 @@
+.widget .snippet-avatar{
+	float:left;
+	position:relative;
+	padding: 0.6em;
+	margin: 5px auto;
+	font-weight:bold;
+	text-align:center;
+	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+	-moz-box-shadow: 0 5px 0px rgba(0, 0, 0, 0.7);
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+	text-shadow:#FFF 0px 1px 0px, 0px -1px 0px #1B1B1B;
+	background-color:#9D9D9D;
+	background:-moz-linear-gradient(-90deg, #D4D4D4, #909090);
+	background:-webkit-gradient(linear, left top, left bottom, from(#D4D4D4), to(#909090));
+	-moz-border-radius: 5px!important;
+	-webkit-border-radius: 5px!important;
+	border-radius: 5px!important;
+	width:30px!important;
+	height:20px!important;
+	line-height:20px!important;
+	font-size:0.76em!important;
+}
+
+.widget ul#snippets-list li div.item{
+	margin-left:60px;
+}
+.widget ul#snippets-list li div.item div.item-title{
+	width:90%;
+}
+.widget ul#snippets-list li div.item div.item-meta{
+	margin-left:0px;
+}

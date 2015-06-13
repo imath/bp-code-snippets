@@ -1,0 +1,745 @@
+# Copyright (C) 2013 BP Code Snippets
+# This file is distributed under the same license as the BP Code Snippets package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Code Snippets 2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-code-snippets\n"
+"POT-Creation-Date: 2013-03-15 05:13:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bp-code-snippets.php:128
+msgid "IMPORTANT: BP Code Snippets 2.1 requires BuddyPress 1.6.4, make sure you are running this version of BuddyPress before installing or upgrading."
+msgstr ""
+
+#: feeds/bp-code-snippets-dir-feed.php:26
+#: feeds/bp-code-snippets-dir-feed.php:29 templates/snippets-dir-edit.php:22
+#: templates/snippets-dir.php:23 templates/snippets-single.php:22
+msgid "Snippets Directory"
+msgstr ""
+
+#: feeds/bp-code-snippets-group-feed.php:27
+#: includes/bp-code-snippets-groups.php:15
+#: includes/bp-code-snippets-loader.php:17
+#: includes/bp-code-snippets-loader.php:82
+#: includes/bp-code-snippets-loader.php:96
+#: includes/bp-code-snippets-loader.php:133
+#: includes/bp-code-snippets-screens.php:219
+#: includes/bp-code-snippets-screens.php:292
+#: includes/bp-code-snippets-screens.php:322
+#: includes/bp-code-snippets-screens.php:349
+msgid "Snippets"
+msgstr ""
+
+#: feeds/bp-code-snippets-group-feed.php:30
+msgid "%s - Group Snippets Feed"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:192
+#: includes/bp-code-snippets-actions.php:861
+msgid "Please, add a title to your snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:193
+#: includes/bp-code-snippets-actions.php:862
+msgid "Please, add a description of your snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:194
+#: includes/bp-code-snippets-actions.php:863
+msgid "Please, select a language category for your snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:195
+#: includes/bp-code-snippets-actions.php:864
+msgid "Please, add the snippet you want to share"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:196
+msgid "Please select a group for your forum post"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:249
+msgid "Please enter some title / category and content to snippet."
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:314
+msgid "Snippet Posted!"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:320
+msgid "There was an error when posting your snippet, please try again."
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:351
+msgid "Please enter some content in your comment."
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:368
+msgid "Comment saved!"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:376
+msgid "There was an error when posting your comment, please try again."
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:397
+msgid "Request unallowed. Please, you can search <a href=\"%s\" target=\"top\">this site</a>"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:445
+msgid "Snippet deleted successfully"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:450
+msgid "Group Snippet deleted successfully"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:453
+msgid "There was an error when deleting that snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:487
+msgid "Comment deleted successfully"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:511
+msgid "Snippet added as a favorite"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:513
+msgid "Could not added the snippet as a favorite"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:535
+msgid "Snippet removed from favorite(s)"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:537
+msgid "Could not removed the snippet from favorite(s)"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:590
+msgid "snippet comment"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:591
+msgid "forum topic snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:592
+msgid "forum reply snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:593
+msgid "blog post snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:597
+msgid "Add a description (optionnal)"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:599
+msgid "No description given"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:643
+msgid "your comment"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:649
+#: includes/bp-code-snippets-actions.php:713
+#: includes/bp-code-snippets-actions.php:764
+msgid "Add a snippet to %s"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:649
+#: includes/bp-code-snippets-actions.php:713
+#: includes/bp-code-snippets-filters.php:146
+msgid "Add Snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:699
+msgid "your reply"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:702
+msgid "your topic"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:728
+msgid "Sorry, this group do not enable snippet posting"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:761
+msgid "blog post"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:764
+msgid "Snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:867
+msgid "[Your code here]"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:873
+msgid "Originaly posted on"
+msgstr ""
+
+#: includes/bp-code-snippets-actions.php:974
+msgid "Share a Snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:59
+#: includes/bp-code-snippets-admin.php:201
+msgid "Code Snippets Manager"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:62
+#: includes/bp-code-snippets-admin.php:345
+msgid "Settings Updated."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:68
+msgid "Snippet languages"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:68
+msgid "Snippet settings"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:74
+msgid "Select the available source code languages"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:92
+msgid "Enable Code Snippets for Groups"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:94
+#: includes/bp-code-snippets-admin.php:103
+#: includes/bp-code-snippets-admin.php:111
+#: includes/bp-code-snippets-admin.php:132
+#: includes/bp-code-snippets-admin.php:139
+#: includes/bp-code-snippets-admin.php:153
+#: includes/bp-code-snippets-admin.php:357
+#: includes/bp-code-snippets-screens.php:220
+msgid "Yes"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:95
+#: includes/bp-code-snippets-admin.php:104
+#: includes/bp-code-snippets-admin.php:112
+#: includes/bp-code-snippets-admin.php:133
+#: includes/bp-code-snippets-admin.php:140
+#: includes/bp-code-snippets-admin.php:154
+#: includes/bp-code-snippets-admin.php:358
+#: includes/bp-code-snippets-screens.php:221
+msgid "No"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:101
+msgid "Enable Snippets in group forum posts"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:109
+msgid "Enable Snippets in blogs posts"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:116
+msgid "Highlighter Theme"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:130
+msgid "Enable users to embed the code using an iframe"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:137
+msgid "Enable Snippets shortcode button in embedding toolbar"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:144
+msgid "Enable Snippets tab in BP Bookmarklet plugin"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:150
+msgid "The current version is out of date<br/> please upgrade BP Bookmarklet"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:157
+msgid "Not available"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:166
+#: includes/bp-code-snippets-admin.php:364
+msgid "Save Settings"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:230
+msgid "About"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:231
+msgid "BP Code Snippets is a <b>BuddyPress 1.6+</b> component to share snippets in your community. Version 2.0 comes with some improvements such as <ul><li>Better integration with group forums and blog posts</li><li><a href='%s' class='thickbox'>The Snippets directory</a> now supports language category filtering (and searching)</li><li>Snippets can now be favorited by members</li><li>A widget can display the most favorited snippets</li><li>You can allow people to embed snippets in an iframe</li><li>You can ease the process of sharing snippets thanks to BP Bookmarklet plugin.</li></ul>"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:236
+msgid "Group Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:237
+msgid "When this option is enabled, Group Admins will have the choice to activate Snippets sharing by <a href='%s' class='thickbox'>setting the available languages for their group</a> (based on the ones the blog/network admin activated on the <a href='#bpcs-languages' class='bpcs-visu'>first column</a> of this page) during group creation process or at anytime from the admin tab (Snippets submenu) of the group. The snippets (except those attached to comments) of <b>public</b> groups will also be displayed in the main Snippets directory."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:242
+msgid "Forum Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:243
+msgid "If Group Snippets option and this one are enabled, then <b>Group</b> Forum topics and replies can include snippets in their content. At the left of the post topic / reply button, a button with the caption <em>Add Snippet</em>  will display and on click a <a href='%s' class='thickbox'>modal window will allow the member to attach a new snippet</a> to his topic/reply. The snippets attached to <b>topics</b> of <b>public</b> groups will also be listed in the main Snippets directory."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:248
+msgid "Blog Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:249
+msgid "When this option is enabled, members with the capacity of <b>publishing</b> posts will be able to add new snippets to their posts. A new button with the caption <em>Add Snippet</em>  will show in the media bar. On click, a modal window will allow the member to create a new snippet and attach it to his post. Snippets are only displayed on page or single templates, on other templates a link to the post is shown. If the privacy settings of the blog allow the search engines to index it, then the snippets will also be available in the main Snippets directory."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:254
+msgid "Iframe Embedding"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:255
+msgid "When this option is enabled, a <a href='%s' class='thickbox'>toolbar shows over the content</a> of the snippets. It contains two buttons, one to display the permalink of the snippets and one other to display the iframe embedding code. After copying this code, members or visitors will be able to paste it in their website."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:260
+msgid "Shortcode"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:261
+msgid "When Iframe Embedding option and this option are enabled, it's possible for <b>logged in members</b> to copy the shortcode of a snippet. The Embedding toolbar will show a third button to display the snippet shortcode. After copying it, the member can paste it into a blog post, a forum topic / reply, a snippet comment. In case people paste shortcode in activity, the <em>default</em> link to the snippet showing when [Read more] is clicked will automatically be replaced by an iframe containing the code."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:266
+msgid "BP Bookmarklet"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:267
+msgid "<a href='http://wordpress.org/extend/plugins/bp-bookmarklet/' target='_blank'>BP Bookmarklet</a> is a BuddyPress plugin that adds a bookmarklet to the user's browser so that he can easily share links in his activity or group updates. If this plugin is installed and activated, then you can choose to check this option so that BP Code Snippets adds a new tab to BP Bookmarklet to also share snippets in the main directory or one of the user's group."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:274
+msgid "If snippets are not available for groups, then snippets are not available for group forums :("
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:275
+msgid "If snippets cannot be embed in an iframe, then embeding snippets in activity is not allowed :("
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:297
+msgid "Thanks for choosing BP Code Snippets !"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:298
+msgid "Please take a few seconds to store the settings of this plugin in BuddyPress submenu Code Snippets Manager."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:326
+msgid "Snippets Option"
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:348
+msgid "BP Code Snippets is a BuddyPress plugin to highlight syntax/share snippets of code. The Super Admin of your network activated it for blogs. If you wish to highlight and share your snippets in your posts, you can enable this feature by checking the option below. Currently the Super Admin activated syntax highlighting for these languages : %s."
+msgstr ""
+
+#: includes/bp-code-snippets-admin.php:355
+msgid "Enable Code Snippets for your blog ? For more infos, please contact super admin"
+msgstr ""
+
+#: includes/bp-code-snippets-ajax.php:31 templates/snippets-entry.php:59
+#: templates/snippets-group-single.php:67 templates/snippets-single.php:111
+msgid "Remove Favorite"
+msgstr ""
+
+#: includes/bp-code-snippets-ajax.php:44 templates/snippets-entry.php:55
+#: templates/snippets-group-single.php:63 templates/snippets-single.php:107
+msgid "Favorite"
+msgstr ""
+
+#: includes/bp-code-snippets-ajax.php:44 templates/snippets-entry.php:55
+#: templates/snippets-group-single.php:63 templates/snippets-single.php:107
+msgid "Mark as Favorite"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:134
+#: includes/bp-code-snippets-loader.php:140
+msgid "My Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:137
+msgid "My Favs"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:140
+msgid "Snippet details"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:143
+msgid "Embed Snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:197
+#: includes/bp-code-snippets-functions.php:1106
+msgid "Get Shortcode"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:200
+#: includes/bp-code-snippets-functions.php:1109 templates/snippets-embed.php:39
+msgid "Get Permalink"
+msgstr ""
+
+#: includes/bp-code-snippets-filters.php:203
+#: includes/bp-code-snippets-functions.php:1110 templates/snippets-embed.php:40
+msgid "Get Embed Code"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:339
+#: includes/bp-code-snippets-functions.php:486
+msgid "edited a"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:341
+#: includes/bp-code-snippets-functions.php:488
+msgid "posted a new"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:345
+msgid "%s %s %s snippet %s"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:506
+msgid "%1$s %2$s snippet %3$s in the group %4$s"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:842
+msgid "%1$s commented on the snippet %2$s"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:874
+msgid "%1$s commented on the snippet %2$s in the group %3$s"
+msgstr ""
+
+#: includes/bp-code-snippets-functions.php:908
+msgid "Comment could not be removed.. Reload the page and try again.."
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:27
+#: includes/bp-code-snippets-groups.php:55
+msgid "settings for this group."
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:29
+#: includes/bp-code-snippets-groups.php:57
+msgid "Activate the codes category for your group (leave all unchecked if you do not want to use Snippets)"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:61
+msgid "Save"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:86
+msgid "There was an error saving, please try again"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:88
+msgid "Settings saved successfully"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:106
+#: includes/bp-code-snippets-screens.php:295 templates/snippets-dir.php:23
+msgid "New Snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:110
+msgid "List of Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:118 templates/snippets-dir.php:68
+#: templates/snippets-member.php:49
+msgid "Category:"
+msgstr ""
+
+#: includes/bp-code-snippets-groups.php:120 templates/snippets-dir.php:70
+#: templates/snippets-member.php:51
+msgid "All"
+msgstr ""
+
+#: includes/bp-code-snippets-loader.php:70
+msgid "Search Snippets..."
+msgstr ""
+
+#: includes/bp-code-snippets-loader.php:105
+msgid "Favorites"
+msgstr ""
+
+#: includes/bp-code-snippets-loader.php:148
+msgid "My favorites"
+msgstr ""
+
+#: includes/bp-code-snippets-notifications.php:35
+msgid "New comment on one of your snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-notifications.php:37
+msgid ""
+"%1$s added a comment to your snippet.\n"
+"\n"
+"Permalink to your snippet : %2$s\n"
+"\n"
+"content of the comment: \n"
+"\n"
+"%3$s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: includes/bp-code-snippets-notifications.php:49
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+#: includes/bp-code-snippets-notifications.php:68
+msgid "%d new comments on your snippet(s)"
+msgstr ""
+
+#: includes/bp-code-snippets-notifications.php:80
+msgid "1 new comment on your snippet"
+msgstr ""
+
+#: includes/bp-code-snippets-screens.php:228
+msgid "A member added a comment to one of your snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:124
+msgid "Search"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:197
+msgctxt "Snippet pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:198
+msgctxt "Snippet pagination next text"
+msgid "&rarr;"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:437
+msgid "Viewing snippet %1$s to %2$s (of %3$s snippets)"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:518
+#: includes/bp-code-snippets-templatetags.php:537
+msgid "in %s"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:527
+msgid " to the topic %s"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:540
+msgid " to the post %s"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:550
+msgid "Posted by %s %s %s"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:788
+msgid "<a href=\"%1$s\" rel=\"nofollow\">%2$s</a> said <span class=\"time-since\">%3$s</span>"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:802
+msgid "Delete comment"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:802
+#: includes/bp-code-snippets-templatetags.php:896
+msgid "Delete"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:938
+msgid "Edit"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:954
+msgid "Public Snippets feed"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:963
+msgid "Group Snippets feed"
+msgstr ""
+
+#: includes/bp-code-snippets-templatetags.php:969
+msgid "RSS"
+msgstr ""
+
+#: includes/bp-code-snippets-widgets.php:23
+msgid "The most favorited snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-widgets.php:24
+#: includes/bp-code-snippets-widgets.php:101
+msgid "Most Favorited Snippets"
+msgstr ""
+
+#: includes/bp-code-snippets-widgets.php:70
+msgid "favorited 1 time"
+msgid_plural "favorited %1$s times"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/bp-code-snippets-widgets.php:82
+msgid "No favorited snippet yet!"
+msgstr ""
+
+#: includes/bp-code-snippets-widgets.php:110
+#: templates/snippets-create-thickbox.php:137 templates/snippets-create.php:24
+#: templates/snippets-edit.php:29
+msgid "Title:"
+msgstr ""
+
+#: includes/bp-code-snippets-widgets.php:112
+msgid "Max snippets to show:"
+msgstr ""
+
+#: templates/snippets-comments.php:21
+msgid "1 response to %2$s"
+msgid_plural "%1$s responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/snippets-comments.php:50
+msgid "Add a reply:"
+msgstr ""
+
+#: templates/snippets-comments.php:58
+msgid "Post Reply"
+msgstr ""
+
+#: templates/snippets-comments.php:67
+msgid "You must be logged in to comment."
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:99
+msgid "Insert this Snippet"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:113 templates/snippets-edit.php:79
+#: templates/snippets-group-single.php:108 templates/snippets-loop.php:61
+#: templates/snippets-single.php:152
+msgid "Sorry, there was no snippet found. Please try a different filter."
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:133 templates/snippets-create.php:22
+msgid "Create New Snippet:"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:140 templates/snippets-create.php:53
+#: templates/snippets-edit.php:54
+msgid "Categories"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:143
+msgid "Description:"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:146 templates/snippets-create.php:59
+#: templates/snippets-edit.php:60
+msgid "Content:"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:153 templates/snippets-create.php:66
+msgid "Post Snippet"
+msgstr ""
+
+#: templates/snippets-create-thickbox.php:154 templates/snippets-create.php:67
+#: templates/snippets-edit.php:69
+msgid "Cancel"
+msgstr ""
+
+#: templates/snippets-create.php:31 templates/snippets-edit.php:34
+msgid "Post In Group Snippets:"
+msgstr ""
+
+#. translators: no option picked in select box
+
+#: templates/snippets-create.php:35 templates/snippets-edit.php:38
+msgid "----"
+msgstr ""
+
+#: templates/snippets-create.php:56 templates/snippets-edit.php:57
+msgid "Decription:"
+msgstr ""
+
+#: templates/snippets-dir-edit.php:33 templates/snippets-dir.php:43
+#: templates/snippets-single.php:34
+msgid "All Snippets <span>%s</span>"
+msgstr ""
+
+#: templates/snippets-dir-edit.php:37 templates/snippets-dir.php:47
+#: templates/snippets-single.php:38
+msgid "My Snippets <span>%s</span>"
+msgstr ""
+
+#: templates/snippets-dir-edit.php:39 templates/snippets-dir.php:49
+#: templates/snippets-single.php:40
+msgid "My Favorite Snippets <span>%s</span>"
+msgstr ""
+
+#: templates/snippets-edit.php:27
+msgid "Editing Snippet: %s"
+msgstr ""
+
+#: templates/snippets-edit.php:68
+msgid "Save Changes"
+msgstr ""
+
+#: templates/snippets-embed.php:61
+msgid "Sorry, this snippet is no longer available on %s"
+msgstr ""
+
+#: templates/snippets-entry.php:47 templates/snippets-group-single.php:55
+#: templates/snippets-single.php:99
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: templates/snippets-loop.php:40
+msgid "Load More"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "BP Code Snippets"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/2012/01/30/bp-code-snippets-2-0/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "BuddyPress 1.6+ plugin to share & highlight code snippets"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu"
+msgstr ""
