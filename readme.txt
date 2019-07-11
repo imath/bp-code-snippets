@@ -41,7 +41,7 @@ Please add a comment <a href="http://imathi.eu/2012/01/30/bp-code-snippets-2-0/"
 == Changelog ==
 
 = 2.1 =
-* security fix : zClip is abandonned due to security hole
+* security fix : zClip is abandoned due to security hole
 * finally fixes various bugs appearead since 1.6 BuddyPress upgrade.
 * BuddyPress 1.7 ready !
 
